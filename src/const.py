@@ -1,0 +1,11 @@
+#Screen Dimensions
+WIDTH = 1500
+HEIGHT = 1500
+
+
+#Player Spaceship
+HEALTH = 100
+MASS = 300
+ROTATE_SPEED = 250
+MAX_SPEED = 200
+FORCE = 90000
